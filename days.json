@@ -1,0 +1,4706 @@
+[
+  {
+    "date": "Mon 21 Apr",
+    "dayNum": 1,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 1: PREVENTATIVE STRATEGIES in psychiatry",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 'Organizations and delivery of psychiatry treatments.pdf' (Psychomentor folder). Listen to questions 1-15 and their explanations"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Psychiatric Services.pdf",
+        "action": "Open file, do Question 4 'Prevention of Psychosis' (4 scenarios: universal, indicated, selective). Read every explanation"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "Organizations and delivery of psychiatry treatments.pdf",
+        "action": "From the Psychomentor folder. Work through Q1, 6, 10, 11, 12, 13 - all test primary/secondary/tertiary vs universal/selective/indicated prevention"
+      }
+    ],
+    "iso": "2026-04-21"
+  },
+  {
+    "date": "Tue 22 Apr",
+    "dayNum": 2,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 1: PHYSICAL TREATMENTS — ECT, TMS, Psychosurgery, DBS",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 'Organizations and delivery of psychiatry treatments.pdf' again. Listen to questions 14-33 this time"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Psychiatric Services.pdf",
+        "action": "Open file, do Question 1 'Neuromodulation Therapies' - match scenarios to ECT / Psychosurgery / TMS / Deep Brain Stimulation"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "Organizations and delivery of psychiatry treatments.pdf",
+        "action": "From the Psychomentor folder. Work through Q2, 3, 14, 16, 17, 21, 24, 26, 32, 33 (ECT: Cerletti & Bini, Moniz, NICE indications, retrograde amnesia, stop diazepam, donepezil)"
+      }
+    ],
+    "iso": "2026-04-22"
+  },
+  {
+    "date": "Wed 23 Apr",
+    "dayNum": 3,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 1: COMMUNITY SERVICES & Pathways to Care",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, click Dr. Murthy CLINICAL Part 1 YouTube link. Just listen on your commute"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Psychiatric Services.pdf",
+        "action": "Open file, do Question 3 'Distribution of mental disorders'. Memorise the figures: 1 in 4 (lifetime), 1 in 6 (current), 1 in 7 (elderly), 1 in 10 (chronic depression)"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "Organizations and delivery of psychiatry treatments.pdf",
+        "action": "From the Psychomentor folder. Focus on Q4 (Goldberg & Huxley pathways to care). Read the full explanation"
+      }
+    ],
+    "iso": "2026-04-23"
+  },
+  {
+    "date": "Thu 24 Apr",
+    "dayNum": 4,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 1: REHABILITATION & the Recovery Model",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 'General Psychiatry.pdf' from Mentor Notes subfolder. Listen - covers ECT, antipsychotics, scales"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Psychiatric Services.pdf",
+        "action": "Re-do Question 1 (Neuromodulation) and Question 4 (Prevention of Psychosis) from yesterday. You should now get both 100% correct"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "Organizations and delivery of psychiatry treatments.pdf",
+        "action": "From the Psychomentor folder. Focus on Q8 and Q9 (recovery model: involves 'learning to live with illness', user-based recovery = 'overcoming effects of being a patient')"
+      }
+    ],
+    "iso": "2026-04-24"
+  },
+  {
+    "date": "Fri 25 Apr",
+    "dayNum": 5,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 1: MEDICO-LEGAL — Human Rights, Fraser, Ethnic Variations",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, click Dr. Murthy CLINICAL Part 2 or 3 YouTube link. Listen on commute"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Psychiatric Services.pdf",
+        "action": "Open file, do Question 2 'Human Rights in Mental Health'. Match scenarios to Articles 2, 3, 6, 8, 9. Read every explanation"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "Organizations and delivery of psychiatry treatments.pdf",
+        "action": "From the Psychomentor folder. Focus on Q5 (right to work is NOT a human right), Q19 & Q25 (Fraser Guidelines from Gillick case), Q20, Q28, Q29 (ethnic variations: Black = highest detention, Indian = lowest)"
+      }
+    ],
+    "iso": "2026-04-25"
+  },
+  {
+    "date": "Sat 26 Apr",
+    "dayNum": 6,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 1: LONG SESSION — Consolidation",
+    "tasks": [
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 1 (25 min)",
+        "resource": "Organizations and delivery of psychiatry treatments.pdf",
+        "action": "Re-read the whole file (33+ questions) end-to-end. Mark any questions you still get wrong"
+      },
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 2 (25 min)",
+        "resource": "EMIs Psychiatric Services.pdf",
+        "action": "Re-work all 4 EMIs in order (Neuromodulation, Human Rights, Distribution, Prevention of Psychosis). Aim for 100%"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 3 (25 min)",
+        "resource": "Pen and paper",
+        "action": "From memory write: (a) 5 types of prevention + 1 example each, (b) NICE indications for ECT, (c) 5 HRA articles relevant to MH"
+      }
+    ],
+    "iso": "2026-04-26"
+  },
+  {
+    "date": "Sun 27 Apr",
+    "dayNum": 7,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "PLANNING DAY — Week 2 starts tomorrow",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Pen and paper",
+        "action": "Write down: what time Mon-Fri will you listen in the morning? When will lunchtime questions happen?"
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "Your brain is consolidating Week 1. Do not open study materials today"
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Week 1",
+        "action": "Bin this sheet. Pick up Monday's sheet tomorrow"
+      }
+    ],
+    "iso": "2026-04-27"
+  },
+  {
+    "date": "Mon 28 Apr",
+    "dayNum": 8,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 2: DEPRESSION — Epidemiology & Course",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 71_AdultPsychiatry_part1.pdf, listen to Major Depressive Disorder section (Epidemiology)"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Open file, find Depression section, do first 10 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part1.pdf",
+        "action": "Open file, read MDD - Epidemiology + Diagnostic stability + Mortality + Duration"
+      }
+    ],
+    "iso": "2026-04-28"
+  },
+  {
+    "date": "Tue 29 Apr",
+    "dayNum": 9,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 2: DEPRESSION — The 5 Rs & Prognosis",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Psychomentor folder (Drive)",
+        "action": "Watch/listen Dr Murthy CLINICAL Part 1 or 2 - depression coverage"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Continue Depression section, do next 10 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part1.pdf",
+        "action": "Read: Recurrence rates + The 5 Rs and Kupfer Curve + Prognostic indicators"
+      }
+    ],
+    "iso": "2026-04-29"
+  },
+  {
+    "date": "Wed 30 Apr",
+    "dayNum": 10,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 2: DEPRESSION — NICE guidelines & Prescribing",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 71_AdultPsychiatry_part1.pdf, listen to NICE guidelines section"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Continue Depression section, do next 10 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part1.pdf",
+        "action": "Read: NICE guidelines for depression + Principles of prescribing + Stepped care"
+      }
+    ],
+    "iso": "2026-04-30"
+  },
+  {
+    "date": "Thu 1 May",
+    "dayNum": 11,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 2: DEPRESSION — STAR*D and NNT data",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, watch General Adult Psychiatry Module 1 video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Continue Depression section, do next 10 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part1.pdf",
+        "action": "Read: Phases of treatment + STAR*D trial + NNT data + Gender differences"
+      }
+    ],
+    "iso": "2026-05-01"
+  },
+  {
+    "date": "Fri 2 May",
+    "dayNum": 12,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 2: DEPRESSION — TRD & Novel agents",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 71_AdultPsychiatry_part1.pdf, listen to Managing TRD + Novel agents section"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Finish Depression section, re-do any questions you got wrong"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part1.pdf",
+        "action": "Read: Antidepressants & suicide risk + Overdose toxicity + TRD (5As) + Combining antidepressants + Ketamine + Agomelatine"
+      }
+    ],
+    "iso": "2026-05-02"
+  },
+  {
+    "date": "Sat 3 May",
+    "dayNum": 13,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 2: LONG SESSION — Depression review",
+    "tasks": [
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 1 (25 min)",
+        "resource": "71_AdultPsychiatry_part1.pdf",
+        "action": "Re-read full Depression section, write out 10 key facts you keep forgetting"
+      },
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 2 (25 min)",
+        "resource": "Birmingham folder - Paper_B_GAP_I_Notes.pdf",
+        "action": "Open file, read the Depression section (different angle/summary than SPMM)"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 3 (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Do 20 mixed Depression questions timed, review every wrong answer"
+      }
+    ],
+    "iso": "2026-05-03"
+  },
+  {
+    "date": "Sun 4 May",
+    "dayNum": 14,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "PLANNING DAY",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Pen and paper",
+        "action": "Plan Mon-Fri study slots for Week 3"
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "No study materials today"
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Week 2",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-05-04"
+  },
+  {
+    "date": "Mon 5 May",
+    "dayNum": 15,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 3: BIPOLAR — Epidemiology & Spectrum",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 71_AdultPsychiatry_part1.pdf, listen to Bipolar Disorder section start"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Find Bipolar section, do first 10 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part1.pdf",
+        "action": "Read: Bipolar - Epidemiology + The spectrum + Prodrome + Diagnostic stability"
+      }
+    ],
+    "iso": "2026-05-05"
+  },
+  {
+    "date": "Tue 6 May",
+    "dayNum": 16,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 3: BIPOLAR — Course & Subtypes",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Psychomentor folder (Drive)",
+        "action": "Watch/listen to bipolar-related Psychomentor video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Continue Bipolar section, do next 10 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part1.pdf",
+        "action": "Read: Course + Bipolar 1 vs 2 + Relapse indicators + Switch/mood destabilisation"
+      }
+    ],
+    "iso": "2026-05-06"
+  },
+  {
+    "date": "Wed 7 May",
+    "dayNum": 17,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 3: BIPOLAR — Rapid cycling & Secondary mania",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 71_AdultPsychiatry_part1.pdf, listen to Rapid cycling section"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Continue Bipolar section, do next 10 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part1.pdf",
+        "action": "Read: Differentiating bipolar/unipolar + Rapid cycling + Secondary mania + Mania vs hypomania"
+      }
+    ],
+    "iso": "2026-05-07"
+  },
+  {
+    "date": "Thu 8 May",
+    "dayNum": 18,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 3: BIPOLAR — NICE Treatment Guidelines",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, watch General Adult Psychiatry Module 2 video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Continue Bipolar section, do next 10 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part1.pdf",
+        "action": "Read: NICE treatment (acute mania, acute relapse, bipolar depression)"
+      }
+    ],
+    "iso": "2026-05-08"
+  },
+  {
+    "date": "Fri 9 May",
+    "dayNum": 19,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 3: BIPOLAR — Maintenance & Rapid cycling treatment",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 71_AdultPsychiatry_part1.pdf, listen to Maintenance treatment"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Finish Bipolar section questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part1.pdf",
+        "action": "Read: Maintenance + Managing mixed episodes + Managing rapid cycling + Mood stabiliser definition + CBT for bipolar"
+      }
+    ],
+    "iso": "2026-05-09"
+  },
+  {
+    "date": "Sat 10 May",
+    "dayNum": 20,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 3: LONG SESSION — Bipolar review",
+    "tasks": [
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 1 (25 min)",
+        "resource": "71_AdultPsychiatry_part1.pdf",
+        "action": "Re-read Bipolar section, focus on NICE treatment pathways - draw flowchart from memory"
+      },
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 2 (25 min)",
+        "resource": "Birmingham folder - Paper_B_GAP_I_Notes.pdf",
+        "action": "Open file, read Bipolar disorder section"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 3 (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Do 20 mixed Bipolar questions timed"
+      }
+    ],
+    "iso": "2026-05-10"
+  },
+  {
+    "date": "Sun 11 May",
+    "dayNum": 21,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "PLANNING DAY",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Pen and paper",
+        "action": "Plan Mon-Fri for Week 4"
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "No study materials today"
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Week 3",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-05-11"
+  },
+  {
+    "date": "Mon 12 May",
+    "dayNum": 22,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 4: SCHIZOPHRENIA — Epidemiology",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 71_AdultPsychiatry_part1.pdf, listen to Schizophrenia section start"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Find Schizophrenia section, do first 10 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part1.pdf",
+        "action": "Read: Schizophrenia - Epidemiology (incidence, prevalence, migrants, urban, gender)"
+      }
+    ],
+    "iso": "2026-05-12"
+  },
+  {
+    "date": "Tue 13 May",
+    "dayNum": 23,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 4: SCHIZOPHRENIA — High-risk prediction & Outcome",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Psychomentor folder (Drive)",
+        "action": "Watch/listen to schizophrenia-related Psychomentor video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Continue Schizophrenia questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part1.pdf",
+        "action": "Read: High-risk prediction studies (NAPLS, Edinburgh, Bonn) + Delusional disorders + Outcome studies"
+      }
+    ],
+    "iso": "2026-05-13"
+  },
+  {
+    "date": "Wed 14 May",
+    "dayNum": 24,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 4: SCHIZOPHRENIA — Risk factors",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 71_AdultPsychiatry_part1.pdf, listen to Risk factors section"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Continue Schizophrenia questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part1.pdf",
+        "action": "Read: Risk factors - Genetic (SNPs, CNVs, DISC-1, neuregulin) + Perinatal complications + Cannabis"
+      }
+    ],
+    "iso": "2026-05-14"
+  },
+  {
+    "date": "Thu 15 May",
+    "dayNum": 25,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 4: SCHIZOPHRENIA — Psychosocial interventions",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 71_AdultPsychiatry_part1.pdf, listen to Psychosocial interventions section"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Continue Schizophrenia questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part1.pdf",
+        "action": "Read: Psychoeducation + Family therapy + Social skills training + CBT in psychosis + Vocational rehabilitation"
+      }
+    ],
+    "iso": "2026-05-15"
+  },
+  {
+    "date": "Fri 16 May",
+    "dayNum": 26,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 4: SCHIZOPHRENIA — Evidence-based treatment",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, find any schizophrenia-related video and watch"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Continue Schizophrenia questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part1.pdf",
+        "action": "Read: Prognosis + Mortality + Evidence-based treatment + CATIE + CUtLASS + Dose + Depots + High-dose prescribing"
+      }
+    ],
+    "iso": "2026-05-16"
+  },
+  {
+    "date": "Sat 17 May",
+    "dayNum": 27,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 4: LONG SESSION — TRS & Full schizophrenia review",
+    "tasks": [
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 1 (25 min)",
+        "resource": "71_AdultPsychiatry_part1.pdf",
+        "action": "Read: Treatment-resistant schizophrenia + Clozapine + Kane trial + augmentation strategies"
+      },
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 2 (25 min)",
+        "resource": "Birmingham folder - Paper_B_GAP_I_Notes.pdf",
+        "action": "Open file, read Schizophrenia section - alternative angle/summary"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 3 (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Do 20 mixed schizophrenia questions timed, review wrong answers"
+      }
+    ],
+    "iso": "2026-05-17"
+  },
+  {
+    "date": "Sun 18 May",
+    "dayNum": 28,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "PLANNING DAY",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Pen and paper",
+        "action": "Plan Mon-Fri for Week 5"
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "No study materials today"
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Week 4",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-05-18"
+  },
+  {
+    "date": "Mon 19 May",
+    "dayNum": 29,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 5: ANXIETY DISORDERS OVERVIEW + OCD",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 71_AdultPsychiatry_part2.pdf, listen to Anxiety overview + OCD sections"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Find OCD/Anxiety section, do first 10 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part2.pdf",
+        "action": "Read: Anxiety Overview + OCD (Epidemiology + Presentation 4-factor + Aetiology/PANDAS)"
+      }
+    ],
+    "iso": "2026-05-19"
+  },
+  {
+    "date": "Tue 20 May",
+    "dayNum": 30,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 5: OCD Treatment",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Psychomentor folder (Drive)",
+        "action": "Watch/listen any anxiety or OCD Psychomentor video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Continue OCD questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part2.pdf",
+        "action": "Read: OCD NICE treatment - ERP, SSRI doses, antipsychotic augmentation, stepped care"
+      }
+    ],
+    "iso": "2026-05-20"
+  },
+  {
+    "date": "Wed 21 May",
+    "dayNum": 31,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 5: PTSD",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 71_AdultPsychiatry_part2.pdf, listen to PTSD section"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Find PTSD questions, do 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part2.pdf",
+        "action": "Read: PTSD - DSM-5 criteria + Epidemiology + Aetiology + Prevention + NICE treatment (TFCBT, EMDR)"
+      }
+    ],
+    "iso": "2026-05-21"
+  },
+  {
+    "date": "Thu 22 May",
+    "dayNum": 32,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 5: GAD + Social Phobia",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 71_AdultPsychiatry_part2.pdf, listen to GAD + Social phobia sections"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Continue anxiety questions, do 10 on GAD/Social Phobia"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part2.pdf",
+        "action": "Read: GAD (Hamilton scale, kava, NICE treatment) + Social Phobia (generalised vs situational)"
+      }
+    ],
+    "iso": "2026-05-22"
+  },
+  {
+    "date": "Fri 23 May",
+    "dayNum": 33,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 5: Panic Disorder",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, watch a relevant clinical video on anxiety"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Do 10 Panic disorder questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part2.pdf",
+        "action": "Read: Panic Disorder - Epidemiology + ICD-10 criteria + Aetiology + NICE + BAP recommendations"
+      }
+    ],
+    "iso": "2026-05-23"
+  },
+  {
+    "date": "Sat 24 May",
+    "dayNum": 34,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 5: LONG SESSION — Anxiety review",
+    "tasks": [
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 1 (25 min)",
+        "resource": "71_AdultPsychiatry_part2.pdf",
+        "action": "Re-read OCD + PTSD, write from memory: OCD 4-factor model, PTSD NICE treatment pathway"
+      },
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 2 (25 min)",
+        "resource": "Birmingham folder - Paper_B_GAP_2_notesf.pdf",
+        "action": "Open file, read anxiety disorders section - alternative angle"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 3 (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Do 20 mixed anxiety disorder questions timed"
+      }
+    ],
+    "iso": "2026-05-24"
+  },
+  {
+    "date": "Sun 25 May",
+    "dayNum": 35,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "PLANNING DAY",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Pen and paper",
+        "action": "Plan Mon-Fri for Week 6"
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "No study materials today"
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Week 5",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-05-25"
+  },
+  {
+    "date": "Mon 26 May",
+    "dayNum": 36,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 6: HYPOCHONDRIASIS, BDD, MUS, DISSOCIATIVE",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 71_AdultPsychiatry_part2.pdf, listen to Other related disorders section"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Find Somatoform/Dissociative questions, do 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part2.pdf",
+        "action": "Read: Hypochondriasis + Body Dysmorphic Disorder + MUS/Somatisation + Dissociative disorders"
+      }
+    ],
+    "iso": "2026-05-26"
+  },
+  {
+    "date": "Tue 27 May",
+    "dayNum": 37,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 6: EATING DISORDERS — Diagnosis & Physical features",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Psychomentor folder (Drive)",
+        "action": "Watch/listen any eating disorder video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Find Eating Disorders section, do 10 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part2.pdf",
+        "action": "Read: Eating Disorders - AN, BN, BED diagnostic criteria + Epidemiology + Aetiology + Physical symptoms & signs"
+      }
+    ],
+    "iso": "2026-05-27"
+  },
+  {
+    "date": "Wed 28 May",
+    "dayNum": 38,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 6: EATING DISORDERS — Investigations & Management",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 71_AdultPsychiatry_part2.pdf, listen to Eating disorders investigations and management"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Continue ED questions, do next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part2.pdf",
+        "action": "Read: Investigations + Effect on pregnancy + Evidence-based management + NICE guidelines for AN and BN"
+      }
+    ],
+    "iso": "2026-05-28"
+  },
+  {
+    "date": "Thu 29 May",
+    "dayNum": 39,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 6: PERSONALITY DISORDERS — Epidemiology & Clusters A/B",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 71_AdultPsychiatry_part2.pdf, listen to Personality disorders section"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Find Personality disorder questions, do 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part2.pdf",
+        "action": "Read: PD - Epidemiology + Diagnostic stability + Cluster A + Cluster B"
+      }
+    ],
+    "iso": "2026-05-29"
+  },
+  {
+    "date": "Fri 30 May",
+    "dayNum": 40,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 6: PERSONALITY DISORDERS — Cluster C, Pharm, Bipolar vs Borderline",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, watch any Personality Disorder related video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Continue PD questions, do 10 more"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part2.pdf",
+        "action": "Read: Cluster C + Pharmacological management of PD + Bipolar vs Borderline differentiation"
+      }
+    ],
+    "iso": "2026-05-30"
+  },
+  {
+    "date": "Sat 31 May",
+    "dayNum": 41,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 6: LONG SESSION — ED, PD & Psychosexual",
+    "tasks": [
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 1 (25 min)",
+        "resource": "71_AdultPsychiatry_part2.pdf",
+        "action": "Read: Psychosexual disorders + DSM-5 paraphilic disorders. Finish the file."
+      },
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 2 (25 min)",
+        "resource": "Birmingham folder - Paper_B_GAP_III_Notes.pdf",
+        "action": "Open file, read Personality Disorders + Eating Disorders (alternative angle)"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 3 (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Do 20 mixed questions on Eating/PD/Psychosexual timed"
+      }
+    ],
+    "iso": "2026-05-31"
+  },
+  {
+    "date": "Sun 1 Jun",
+    "dayNum": 42,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "PLANNING DAY",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Pen and paper",
+        "action": "Plan Mon-Fri for Week 7"
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "No study materials today"
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Week 6",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-06-01"
+  },
+  {
+    "date": "Mon 2 Jun",
+    "dayNum": 43,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 7: PERINATAL — Mental illness & pregnancy",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 72_PerinatalPsychiatry.pdf, listen through"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Find Perinatal questions (or Adult section), do 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "72_PerinatalPsychiatry.pdf",
+        "action": "Open file, read section on Mental illness and pregnancy"
+      }
+    ],
+    "iso": "2026-06-02"
+  },
+  {
+    "date": "Tue 3 Jun",
+    "dayNum": 44,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 7: PERINATAL — Pharmacology in pregnancy & breastfeeding",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Psychomentor folder (Drive)",
+        "action": "Watch/listen any perinatal or liaison video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Continue perinatal/obstetric questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "72_PerinatalPsychiatry.pdf",
+        "action": "Read: Pharmacological treatment in pregnancy + Pharmacological treatment and breastfeeding. Write out teratogenic drug list"
+      }
+    ],
+    "iso": "2026-06-03"
+  },
+  {
+    "date": "Wed 4 Jun",
+    "dayNum": 45,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 7: LIAISON — Medical specialties & brain diseases",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 73_LiaisonPsychiatry.pdf, listen through Part 1"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Find Liaison-related questions, do 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "73_LiaisonPsychiatry.pdf",
+        "action": "Open file, read: Specialist advice to medical specialties + Psychiatric aspects of brain diseases"
+      }
+    ],
+    "iso": "2026-06-04"
+  },
+  {
+    "date": "Thu 5 Jun",
+    "dayNum": 46,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 7: LIAISON — Pain, Fatigue, Sleep",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, watch Liaison Psychiatry Module 1 or 2 video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Continue questions on MUS/pain/fatigue"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "73_LiaisonPsychiatry.pdf",
+        "action": "Read: Pain, Fatigue and Sleep section"
+      }
+    ],
+    "iso": "2026-06-05"
+  },
+  {
+    "date": "Fri 6 Jun",
+    "dayNum": 47,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 7: EMERGENCY — Suicide, emergencies, legislation",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 74_EmergencyPsychiatry.pdf, listen through"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Find Emergency psychiatry/suicide questions, do 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "74_EmergencyPsychiatry.pdf",
+        "action": "Open file, read: Introduction + Suicidal patients + Managing Other Emergencies + Legislative Aspects + CRHT Teams"
+      }
+    ],
+    "iso": "2026-06-06"
+  },
+  {
+    "date": "Sat 7 Jun",
+    "dayNum": 48,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 7: LONG SESSION — Perinatal/Liaison/Emergency review + Epidemiology",
+    "tasks": [
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 1 (25 min)",
+        "resource": "7x_EpidemiologicalData.pdf",
+        "action": "Open file, read entire document (only 4 pages) + write key rates from memory"
+      },
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 2 (25 min)",
+        "resource": "Birmingham folder - Paper_B_Neuropsychiatry_Notes_c.pdf",
+        "action": "Open file, read through sections relevant to liaison psychiatry"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 3 (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Do 20 mixed questions from this week's topics"
+      }
+    ],
+    "iso": "2026-06-07"
+  },
+  {
+    "date": "Sun 8 Jun",
+    "dayNum": 49,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "PLANNING DAY",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Pen and paper",
+        "action": "Plan Mon-Fri for Week 8"
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "No study materials today"
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Week 7",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-06-08"
+  },
+  {
+    "date": "Mon 9 Jun",
+    "dayNum": 50,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 8: OLD AGE — Demographics & physical disease",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 81_OldAgePsychiatry.pdf, listen to Demographics and Psychological aspects of physical disease"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Old Age Psychiatry.pdf",
+        "action": "Open file, do first 10 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "81_OldAgePsychiatry.pdf",
+        "action": "Open file, read: Demographics + Psychological aspects of physical disease"
+      }
+    ],
+    "iso": "2026-06-09"
+  },
+  {
+    "date": "Tue 10 Jun",
+    "dayNum": 51,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 8: OLD AGE — Dementias — Alzheimer's",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Psychomentor folder (Drive)",
+        "action": "Watch/listen Old Age Psychiatry video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Old Age Psychiatry.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "81_OldAgePsychiatry.pdf",
+        "action": "Read: Dementia syndromes - focus on Alzheimer's disease in detail"
+      }
+    ],
+    "iso": "2026-06-10"
+  },
+  {
+    "date": "Wed 11 Jun",
+    "dayNum": 52,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 8: OLD AGE — Dementias — LBD, Vascular, FTD",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 81_OldAgePsychiatry.pdf, listen to dementia subtypes section"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Old Age Psychiatry.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "81_OldAgePsychiatry.pdf",
+        "action": "Read: Lewy Body Dementia + Vascular Dementia + Frontotemporal Dementia"
+      }
+    ],
+    "iso": "2026-06-11"
+  },
+  {
+    "date": "Thu 12 Jun",
+    "dayNum": 53,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 8: OLD AGE — Delirium",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 81_OldAgePsychiatry.pdf, listen to Delirium section"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Old Age Psychiatry.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "81_OldAgePsychiatry.pdf",
+        "action": "Read: Delirium - causes, assessment, management (NICE guidelines)"
+      }
+    ],
+    "iso": "2026-06-12"
+  },
+  {
+    "date": "Fri 13 Jun",
+    "dayNum": 54,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 8: OLD AGE — Non-degenerative, Sleep, Psychosexual",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, watch Old Age Psychiatry video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Old Age Psychiatry.pdf",
+        "action": "Continue questions, finish remaining"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "81_OldAgePsychiatry.pdf",
+        "action": "Read: Non-degenerative psychiatric disorders + Sleep disorder in later life + Psychosexual in old age"
+      }
+    ],
+    "iso": "2026-06-13"
+  },
+  {
+    "date": "Sat 14 Jun",
+    "dayNum": 55,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 8: LONG SESSION — Full review",
+    "tasks": [
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 1 (25 min)",
+        "resource": "81_OldAgePsychiatry.pdf",
+        "action": "Re-read dementia subtypes - make a comparison table from memory"
+      },
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 2 (25 min)",
+        "resource": "Birmingham folder - Older_Adult_Psychiatry_Notes.pdf",
+        "action": "Open file, read through (alternative angle)"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 3 (25 min)",
+        "resource": "EMIs Old Age Psychiatry.pdf",
+        "action": "Do 20 mixed questions timed, review all wrong answers"
+      }
+    ],
+    "iso": "2026-06-14"
+  },
+  {
+    "date": "Sun 15 Jun",
+    "dayNum": 56,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "PLANNING DAY",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Pen and paper",
+        "action": "Plan Mon-Fri for Week 9"
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "No study materials today"
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Week 8",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-06-15"
+  },
+  {
+    "date": "Mon 16 Jun",
+    "dayNum": 57,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 9: CHILD — Adult MI and children + Life events",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 10_ChildPsychiatry.pdf, listen to start"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Child Psychiatry.pdf",
+        "action": "Open file, do first 10 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "10_ChildPsychiatry.pdf",
+        "action": "Open file, read: Adult mental illness and children + Negative life events during development"
+      }
+    ],
+    "iso": "2026-06-16"
+  },
+  {
+    "date": "Tue 17 Jun",
+    "dayNum": 58,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 9: CHILD — ADHD",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Psychomentor folder (Drive)",
+        "action": "Watch/listen Child Psychiatry video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Child Psychiatry.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "10_ChildPsychiatry.pdf",
+        "action": "Read: ADHD - epidemiology, diagnosis, NICE treatment, stimulants"
+      }
+    ],
+    "iso": "2026-06-17"
+  },
+  {
+    "date": "Wed 18 Jun",
+    "dayNum": 59,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 9: CHILD — Conduct + Early onset mood/psychotic",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 10_ChildPsychiatry.pdf, listen to Conduct disorder section"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Child Psychiatry.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "10_ChildPsychiatry.pdf",
+        "action": "Read: Disorders of childhood conduct + Early onset mood and psychotic disorders"
+      }
+    ],
+    "iso": "2026-06-18"
+  },
+  {
+    "date": "Thu 19 Jun",
+    "dayNum": 60,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 9: CHILD — Anxiety + Other anxiety-related",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, watch Child Psychiatry Module 1 video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Child Psychiatry.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "10_ChildPsychiatry.pdf",
+        "action": "Read: Anxiety Disorders in children + Other anxiety-related disorders (OCD, school refusal, separation anxiety)"
+      }
+    ],
+    "iso": "2026-06-19"
+  },
+  {
+    "date": "Fri 20 Jun",
+    "dayNum": 61,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 9: CHILD — Developmental + Learning + Tic disorders",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, watch Child Psychiatry Module 2 video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Child Psychiatry.pdf",
+        "action": "Continue questions, finish remaining"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "10_ChildPsychiatry.pdf",
+        "action": "Read: Developmental disorders (autism) + Learning and communication disorders + Tic disorders (Tourette's) + Miscellaneous"
+      }
+    ],
+    "iso": "2026-06-20"
+  },
+  {
+    "date": "Sat 21 Jun",
+    "dayNum": 62,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 9: LONG SESSION — Child Psychiatry review",
+    "tasks": [
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 1 (25 min)",
+        "resource": "10_ChildPsychiatry.pdf",
+        "action": "Re-read ADHD + Autism sections, write from memory: ADHD NICE pathway, autism triad"
+      },
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 2 (25 min)",
+        "resource": "Birmingham folder - Paper_B_CAMHS_Notes.pdf",
+        "action": "Open file, read through (alternative angle)"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 3 (25 min)",
+        "resource": "EMIs Child Psychiatry.pdf",
+        "action": "Do 20 mixed child questions timed"
+      }
+    ],
+    "iso": "2026-06-21"
+  },
+  {
+    "date": "Sun 22 Jun",
+    "dayNum": 63,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "PLANNING DAY",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Pen and paper",
+        "action": "Plan Mon-Fri for Week 10"
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "No study materials today"
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Week 9",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-06-22"
+  },
+  {
+    "date": "Mon 23 Jun",
+    "dayNum": 64,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 10: ADDICTION I — Epidemiology & Classification",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 111_Addiction Psychiatry Part1.pdf, listen to start"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Addiction Psychiatry.pdf",
+        "action": "Open file, do first 10 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "111_Addiction Psychiatry Part1.pdf",
+        "action": "Read: Epidemiology of substance use + Typology & Classification"
+      }
+    ],
+    "iso": "2026-06-23"
+  },
+  {
+    "date": "Tue 24 Jun",
+    "dayNum": 65,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 10: ADDICTION I — Pharmacology & Prescribing",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Psychomentor folder (Drive)",
+        "action": "Watch/listen Addiction Psychiatry video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Addiction Psychiatry.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "111_Addiction Psychiatry Part1.pdf",
+        "action": "Read: Pharmacological and physiological effects + Prescribing controlled drugs"
+      }
+    ],
+    "iso": "2026-06-24"
+  },
+  {
+    "date": "Wed 25 Jun",
+    "dayNum": 66,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 10: ADDICTION II — Effects of drugs/alcohol + Prevention",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 115_Addiction Psychiatry Part2.pdf, listen to start"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Addiction Psychiatry.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "115_Addiction Psychiatry Part2.pdf",
+        "action": "Read: Psychiatric effects of drugs and alcohol + Prevention & Public Health"
+      }
+    ],
+    "iso": "2026-06-25"
+  },
+  {
+    "date": "Thu 26 Jun",
+    "dayNum": 67,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 10: ADDICTION II — Alcohol treatment",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, watch Addiction Psychiatry Module 1 video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Addiction Psychiatry.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "115_Addiction Psychiatry Part2.pdf",
+        "action": "Read: Evidence-Based Treatments for Alcohol Use - acamprosate, naltrexone, disulfiram"
+      }
+    ],
+    "iso": "2026-06-26"
+  },
+  {
+    "date": "Fri 27 Jun",
+    "dayNum": 68,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 10: ADDICTION II — Opioids + Other substances + Non-substance",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, watch Addiction Psychiatry Module 2 video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Addiction Psychiatry.pdf",
+        "action": "Continue questions, finish remaining"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "115_Addiction Psychiatry Part2.pdf",
+        "action": "Read: Treatments for Opioid Use + Other substances + Non-substance addictive behaviours + Pregnancy"
+      }
+    ],
+    "iso": "2026-06-27"
+  },
+  {
+    "date": "Sat 28 Jun",
+    "dayNum": 69,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 10: LONG SESSION — Addiction review",
+    "tasks": [
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 1 (25 min)",
+        "resource": "111_Addiction Psychiatry Part1.pdf + 115_Addiction Psychiatry Part2.pdf",
+        "action": "Re-read key sections, write pharmacotherapy options for alcohol, opioids, nicotine from memory"
+      },
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 2 (25 min)",
+        "resource": "Birmingham folder - Paper_B_Addiction_Notes.pdf",
+        "action": "Open file, read through (alternative angle)"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 3 (25 min)",
+        "resource": "EMIs Addiction Psychiatry.pdf",
+        "action": "Do 20 mixed questions timed"
+      }
+    ],
+    "iso": "2026-06-28"
+  },
+  {
+    "date": "Sun 29 Jun",
+    "dayNum": 70,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "PLANNING DAY",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Pen and paper",
+        "action": "Plan Mon-Fri for Week 11"
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "No study materials today"
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Week 10",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-06-29"
+  },
+  {
+    "date": "Mon 30 Jun",
+    "dayNum": 71,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 11: FORENSIC I — Crime & Mental disorder",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 121_ForensicPsychiatry_Part1_Rfeb20.pdf, listen to start"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Forensic Psychiatry.pdf",
+        "action": "Open file, do first 10 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "121_ForensicPsychiatry_Part1_Rfeb20.pdf",
+        "action": "Read: Relationship between crime and mental disorder + Specific Crimes"
+      }
+    ],
+    "iso": "2026-06-30"
+  },
+  {
+    "date": "Tue 1 Jul",
+    "dayNum": 72,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 11: FORENSIC I — Specific MD & crime + syndromes + victims",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Psychomentor folder (Drive)",
+        "action": "Watch/listen Forensic Psychiatry video (Dr Palaniyappan)"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Forensic Psychiatry.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "121_ForensicPsychiatry_Part1_Rfeb20.pdf",
+        "action": "Read: Relationship between specific mental disorders and crime + Special syndromes + Special groups + Effect of victimization"
+      }
+    ],
+    "iso": "2026-07-01"
+  },
+  {
+    "date": "Wed 2 Jul",
+    "dayNum": 73,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 11: FORENSIC II — Criminal justice + Secure settings + Risk",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 122_ForensicPsychiatry_Part1.pdf, listen through"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Forensic Psychiatry.pdf",
+        "action": "Continue questions, finish remaining"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "122_ForensicPsychiatry_Part1.pdf",
+        "action": "Read: Criminal Justice System + Secure setting practice + Prison psychiatry + Violence risk assessment + Legal defences"
+      }
+    ],
+    "iso": "2026-07-02"
+  },
+  {
+    "date": "Thu 3 Jul",
+    "dayNum": 74,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 11: LD — Definitions + Epidemiology + Aetiology",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 13_LearningDisability.pdf, listen to first half"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Learning Disability.pdf",
+        "action": "Open file, do first 10 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "13_LearningDisability.pdf",
+        "action": "Read: Definitions & classification + Epidemiology + Aetiology and prevention"
+      }
+    ],
+    "iso": "2026-07-03"
+  },
+  {
+    "date": "Fri 4 Jul",
+    "dayNum": 75,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 11: LD — Services + Psychiatry of LD + Behavioural phenotypes",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, watch Intellectual Disability video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Learning Disability.pdf",
+        "action": "Continue questions, finish remaining"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "13_LearningDisability.pdf",
+        "action": "Read: Community Services for LD + Psychiatry of LD + Behavioural Phenotypes (Down's, Fragile X, Prader-Willi, Rett, etc.)"
+      }
+    ],
+    "iso": "2026-07-04"
+  },
+  {
+    "date": "Sat 5 Jul",
+    "dayNum": 76,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 11: LONG SESSION — Forensic & LD review",
+    "tasks": [
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 1 (25 min)",
+        "resource": "Birmingham folder - Paper B Forensic Psychiatry_c.pdf",
+        "action": "Open file, read through - alternative forensic angle"
+      },
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 2 (25 min)",
+        "resource": "Birmingham folder - Paper_B_LD_Notes.pdf",
+        "action": "Open file, read through LD notes"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 3 (25 min)",
+        "resource": "EMIs Forensic Psychiatry.pdf + EMIs Learning Disability.pdf",
+        "action": "Mix: 10 questions from each file, timed"
+      }
+    ],
+    "iso": "2026-07-05"
+  },
+  {
+    "date": "Sun 6 Jul",
+    "dayNum": 77,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "PLANNING DAY",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Pen and paper",
+        "action": "Plan Mon-Fri for Week 12"
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "No study materials today"
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Week 11",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-07-06"
+  },
+  {
+    "date": "Mon 7 Jul",
+    "dayNum": 78,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 12: PSYCHOTHERAPY — Dynamic",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 091_Psychotherapy.pdf, listen to Dynamic section"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Psychotherapy.pdf",
+        "action": "Open file, do first 10 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "091_Psychotherapy.pdf",
+        "action": "Read: Dynamic Psychotherapy - Freudian, object relations, transference, defence mechanisms"
+      }
+    ],
+    "iso": "2026-07-07"
+  },
+  {
+    "date": "Tue 8 Jul",
+    "dayNum": 79,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 12: PSYCHOTHERAPY — Family therapy",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Psychomentor folder (Drive)",
+        "action": "Watch/listen Psychotherapy video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Psychotherapy.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "091_Psychotherapy.pdf",
+        "action": "Read: Family Therapy - systemic, Milan, narrative approaches"
+      }
+    ],
+    "iso": "2026-07-08"
+  },
+  {
+    "date": "Wed 9 Jul",
+    "dayNum": 80,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 12: PSYCHOTHERAPY — CBT",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 091_Psychotherapy.pdf, listen to CBT section"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Psychotherapy.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "091_Psychotherapy.pdf",
+        "action": "Read: Cognitive Behavioural Therapy - Beck's model, Socratic questioning, behavioural experiments"
+      }
+    ],
+    "iso": "2026-07-09"
+  },
+  {
+    "date": "Thu 10 Jul",
+    "dayNum": 81,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 12: PSYCHOTHERAPY — Group + Other models",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, watch Psychotherapy video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Psychotherapy.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "091_Psychotherapy.pdf",
+        "action": "Read: Group Therapy (Yalom's factors) + Other models (DBT, MBT, IPT, CAT)"
+      }
+    ],
+    "iso": "2026-07-10"
+  },
+  {
+    "date": "Fri 11 Jul",
+    "dayNum": 82,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 12: PSYCHOTHERAPY — Outcome research",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 091_Psychotherapy.pdf, listen to Outcome section"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Psychotherapy.pdf",
+        "action": "Finish remaining questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "091_Psychotherapy.pdf",
+        "action": "Read: Outcome Research in Psychotherapy - Dodo bird effect, common factors, specificity"
+      }
+    ],
+    "iso": "2026-07-11"
+  },
+  {
+    "date": "Sat 12 Jul",
+    "dayNum": 83,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "Week 12: LONG SESSION — Psychotherapy review (Phase 1 ENDS)",
+    "tasks": [
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 1 (25 min)",
+        "resource": "091_Psychotherapy.pdf",
+        "action": "Re-read full file, write out 10 key facts you keep forgetting"
+      },
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 2 (25 min)",
+        "resource": "Birmingham folder - Paper_B_Psychotherapy_Notes.pdf",
+        "action": "Open file, read through (alternative angle)"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 3 (25 min)",
+        "resource": "EMIs Psychotherapy.pdf",
+        "action": "Do 20 mixed questions timed - review wrong answers thoroughly"
+      }
+    ],
+    "iso": "2026-07-12"
+  },
+  {
+    "date": "Sun 13 Jul",
+    "dayNum": 84,
+    "phase": 1,
+    "phaseLabel": "PHASE 1 — CLINICAL FOUNDATION",
+    "topic": "PLANNING DAY - Phase 1 COMPLETE!",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Pen and paper",
+        "action": "Phase 2 starts tomorrow: RESEARCH METHODS & STATS (this is 33.5% of the exam). Plan Week 13."
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "You've covered ALL clinical topics! Now comes the stats. Rest today."
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Phase 1",
+        "action": "12 weeks of clinical. Huge milestone. Bin this sheet."
+      }
+    ],
+    "iso": "2026-07-13"
+  },
+  {
+    "date": "Mon 14 Jul",
+    "dayNum": 85,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 13: STUDY DESIGN",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, watch Dr Palaniyappan STUDY DESIGNS video (first part)"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "10- z EMIs Research Methods.pdf",
+        "action": "Open file, do first 10 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "1401_StudyDesign.pdf",
+        "action": "Open file, read fully - types of study designs (cohort, case-control, cross-sectional, RCT)"
+      }
+    ],
+    "iso": "2026-07-14"
+  },
+  {
+    "date": "Tue 15 Jul",
+    "dayNum": 86,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 13: ANALYTICAL STUDIES",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Stat. Videos folder (Drive)",
+        "action": "Open folder, watch any video on observational/analytical studies"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "10- z EMIs Research Methods.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "1402_AnalyticalStudies.pdf",
+        "action": "Open file, read fully - cohort vs case-control, relative risk, odds ratio"
+      }
+    ],
+    "iso": "2026-07-15"
+  },
+  {
+    "date": "Wed 16 Jul",
+    "dayNum": 87,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 13: INTERVENTIONAL STUDIES (RCTs)",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, watch Dr Palaniyappan STUDY DESIGNS video (continuing)"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "10- z EMIs Research Methods.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "1403_InterventionalStudies.pdf",
+        "action": "Open file, read fully - RCT types (parallel, crossover, factorial, cluster), phase I-IV trials"
+      }
+    ],
+    "iso": "2026-07-16"
+  },
+  {
+    "date": "Thu 17 Jul",
+    "dayNum": 88,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 13: BLINDING & ALLOCATION CONCEALMENT",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Stat. Videos folder (Drive)",
+        "action": "Watch any video on blinding/randomisation"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "10- z EMIs Research Methods.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "1404_Blinding.pdf",
+        "action": "Open file, read fully - types of blinding, allocation concealment, randomisation methods"
+      }
+    ],
+    "iso": "2026-07-17"
+  },
+  {
+    "date": "Fri 18 Jul",
+    "dayNum": 89,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 13: INTENTION TO TREAT",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Stat. Videos folder (Drive)",
+        "action": "Watch any remaining unwatched study design video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "10- z EMIs Research Methods.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "1405_IntentionToTreat.pdf",
+        "action": "Open file, read fully - ITT vs per-protocol analysis, handling missing data"
+      }
+    ],
+    "iso": "2026-07-18"
+  },
+  {
+    "date": "Sat 19 Jul",
+    "dayNum": 90,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 13: LONG SESSION — Study design consolidation",
+    "tasks": [
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 1 (25 min)",
+        "resource": "1401-1405 files",
+        "action": "Quick re-read of all 5 files - write study design comparison table from memory"
+      },
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 2 (25 min)",
+        "resource": "Birmingham folder - Paper_B_Critical_Review_Notes.pdf",
+        "action": "Open file, read sections relevant to study designs"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 3 (25 min)",
+        "resource": "10- z EMIs Research Methods.pdf",
+        "action": "Do 20 mixed questions timed, review wrong answers"
+      }
+    ],
+    "iso": "2026-07-19"
+  },
+  {
+    "date": "Sun 20 Jul",
+    "dayNum": 91,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "PLANNING DAY",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Pen and paper",
+        "action": "Plan Mon-Fri for Week 14"
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "No study materials today"
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Week 13",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-07-20"
+  },
+  {
+    "date": "Mon 21 Jul",
+    "dayNum": 92,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 14: N of 1 TRIALS",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Stat. Videos folder (Drive)",
+        "action": "Watch any video on trial design variations"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "10- z EMIs Research Methods.pdf",
+        "action": "Do 10 more questions, focus on study design edge cases"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "1406_Nof1.pdf",
+        "action": "Open file, read fully (short file) - N-of-1 trial methodology"
+      }
+    ],
+    "iso": "2026-07-21"
+  },
+  {
+    "date": "Tue 22 Jul",
+    "dayNum": 93,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 14: CAUSALITY & CONFOUNDING",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Stat. Videos folder (Drive)",
+        "action": "Watch any video on causality or confounding"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "10- z EMIs Research Methods.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "1407_Causality.pdf",
+        "action": "Open file, read fully - Bradford Hill criteria, confounding, effect modification"
+      }
+    ],
+    "iso": "2026-07-22"
+  },
+  {
+    "date": "Wed 23 Jul",
+    "dayNum": 94,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 14: BIAS (crucial topic)",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Stat. Videos folder (Drive)",
+        "action": "Watch any video on bias - this is a big exam topic"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "10- z EMIs Research Methods.pdf",
+        "action": "Find Bias questions specifically, do 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "1408_Bias.pdf",
+        "action": "Open file, read fully - selection bias, information bias, recall bias, Berkson, Neyman, Hawthorne"
+      }
+    ],
+    "iso": "2026-07-23"
+  },
+  {
+    "date": "Thu 24 Jul",
+    "dayNum": 95,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 14: QUALITATIVE STUDIES",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Stat. Videos folder (Drive)",
+        "action": "Watch any qualitative research methods video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "10- z EMIs Research Methods.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "1409_Qualitative.pdf",
+        "action": "Open file, read fully - grounded theory, phenomenology, ethnography, thematic analysis"
+      }
+    ],
+    "iso": "2026-07-24"
+  },
+  {
+    "date": "Fri 25 Jul",
+    "dayNum": 96,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 14: SECONDARY RESEARCH (Meta-analysis)",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Stat. Videos folder (Drive)",
+        "action": "Watch any video on meta-analysis or systematic reviews"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "10- z EMIs Research Methods.pdf",
+        "action": "Finish any remaining questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "1410_Secondary.pdf",
+        "action": "Open file, read fully - systematic review, meta-analysis, heterogeneity, publication bias, forest plots"
+      }
+    ],
+    "iso": "2026-07-25"
+  },
+  {
+    "date": "Sat 26 Jul",
+    "dayNum": 97,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 14: LONG SESSION — Economic, Epi, QI",
+    "tasks": [
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 1 (25 min)",
+        "resource": "1411_Economic.pdf",
+        "action": "Open file, read fully - cost-benefit, cost-effectiveness, cost-utility analysis, QALY, DALY"
+      },
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 2 (25 min)",
+        "resource": "1412_Epidemiology.pdf",
+        "action": "Open file, read fully - prevalence, incidence, SMR, attributable risk"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 3 (25 min)",
+        "resource": "1413_QualityImprovement_v3.pdf",
+        "action": "Open file, read fully - PDSA, QI tools, audit cycle"
+      }
+    ],
+    "iso": "2026-07-26"
+  },
+  {
+    "date": "Sun 27 Jul",
+    "dayNum": 98,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "PLANNING DAY",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Pen and paper",
+        "action": "Plan Mon-Fri for Week 15. Next week = Advanced Stats."
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "No study materials today"
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Week 14",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-07-27"
+  },
+  {
+    "date": "Mon 28 Jul",
+    "dayNum": 99,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 15: STATS — Variables & Describing Data",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, watch Dr Palaniyappan ADVANCED STATISTICS video (Part 1)"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "20- EMIs Statistics.pdf",
+        "action": "Open file, do first 10 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM Notes - Advanced Statistics subfolder",
+        "action": "Open folder, read file 1 on Variables & Data + Normal Distribution + SEM"
+      }
+    ],
+    "iso": "2026-07-28"
+  },
+  {
+    "date": "Tue 29 Jul",
+    "dayNum": 100,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 15: STATS — Odds, Probabilities, CI",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Stat. Videos folder (Drive)",
+        "action": "Watch any video on probability or confidence intervals"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "20- EMIs Statistics.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM Notes - Advanced Statistics subfolder",
+        "action": "Read: Odds and Probabilities + Population and Sample + Confidence intervals"
+      }
+    ],
+    "iso": "2026-07-29"
+  },
+  {
+    "date": "Wed 30 Jul",
+    "dayNum": 101,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 15: STATS — Inferential stats",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, continue Dr Palaniyappan ADVANCED STATISTICS video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "20- EMIs Statistics.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM Notes - Advanced Statistics subfolder",
+        "action": "Read: Inferential statistics - Effect Size + Multiple testing + Type I/II errors"
+      }
+    ],
+    "iso": "2026-07-30"
+  },
+  {
+    "date": "Thu 31 Jul",
+    "dayNum": 102,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 15: STATS — Reliability, Validity, Kappa",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Stat. Videos folder (Drive)",
+        "action": "Watch any video on reliability and validity"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "20- EMIs Statistics.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM Notes - Advanced Statistics subfolder",
+        "action": "Read: Reliability & Validity + Kappa statistics + Choosing Statistical Test"
+      }
+    ],
+    "iso": "2026-07-31"
+  },
+  {
+    "date": "Fri 1 Aug",
+    "dayNum": 103,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 15: STATS — Comparing means, Regression",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Stat. Videos folder (Drive)",
+        "action": "Watch any video on t-tests, ANOVA, regression"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "20- EMIs Statistics.pdf",
+        "action": "Continue questions, finish remaining"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM Notes - Advanced Statistics subfolder",
+        "action": "Read: Comparing Means + Degrees of Freedom + Regression & Correlation + Regression Equation + Multivariate analyses"
+      }
+    ],
+    "iso": "2026-08-01"
+  },
+  {
+    "date": "Sat 2 Aug",
+    "dayNum": 104,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 15: LONG SESSION — Equations memorisation",
+    "tasks": [
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 1 (25 min)",
+        "resource": "Equations.pdf",
+        "action": "Open file, read and copy every formula onto blank paper"
+      },
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 2 (25 min)",
+        "resource": "Equations.pdf",
+        "action": "Cover the answers, test yourself on each formula from memory, correct any mistakes"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 3 (25 min)",
+        "resource": "Paper B epidemiology stats summary.pdf",
+        "action": "Open file, read fully - write key rates and ratios from memory"
+      }
+    ],
+    "iso": "2026-08-02"
+  },
+  {
+    "date": "Sun 3 Aug",
+    "dayNum": 105,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "PLANNING DAY",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Pen and paper",
+        "action": "Plan Mon-Fri for Week 16. EBM next week."
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "No study materials today"
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Week 15",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-08-03"
+  },
+  {
+    "date": "Mon 4 Aug",
+    "dayNum": 106,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 16: EBM — Principles + Appraisal questions",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, watch Dr Palaniyappan EBM EXERCISES video (Part 1)"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "21- EBM Principles_ Attempt review.pdf",
+        "action": "Open file, do first 10 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM Notes - EBM subfolder",
+        "action": "Open folder, read EBM Principles + Key Questions for Appraisal"
+      }
+    ],
+    "iso": "2026-08-04"
+  },
+  {
+    "date": "Tue 5 Aug",
+    "dayNum": 107,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 16: EBM — Diagnosis & Causation",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Continue Dr Palaniyappan EBM video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "21- EBM Principles_ Attempt review.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM Notes - EBM subfolder",
+        "action": "Read: Evaluating Diagnosis (sensitivity, specificity, PPV, NPV, LR+, LR-) + Evaluating Causation"
+      }
+    ],
+    "iso": "2026-08-05"
+  },
+  {
+    "date": "Wed 6 Aug",
+    "dayNum": 108,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 16: EBM — Prognosis & Therapy",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Stat. Videos folder (Drive)",
+        "action": "Watch any video on critical appraisal"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "21- EBM Principles_ Attempt review.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM Notes - EBM subfolder",
+        "action": "Read: Evaluating Prognosis + Evaluating Therapy (NNT, NNH, ARR, RRR)"
+      }
+    ],
+    "iso": "2026-08-06"
+  },
+  {
+    "date": "Thu 7 Aug",
+    "dayNum": 109,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 16: EBM — Meta-analysis",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Watch Booster session of solved fresh questions video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "21- EBM Principles_ Attempt review.pdf",
+        "action": "Continue questions, next 10"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM Notes - EBM subfolder",
+        "action": "Read: Evaluating Meta-analysis - heterogeneity, I², fixed vs random effects, funnel plot asymmetry"
+      }
+    ],
+    "iso": "2026-08-07"
+  },
+  {
+    "date": "Fri 8 Aug",
+    "dayNum": 110,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 16: EBM — Recommendations + Guidelines",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Stat. Videos folder (Drive)",
+        "action": "Watch any remaining unwatched stats video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "21- EBM Principles_ Attempt review.pdf",
+        "action": "Finish remaining questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM Notes - EBM subfolder",
+        "action": "Read: Recommendations & Guidelines (GRADE, strength of recommendation)"
+      }
+    ],
+    "iso": "2026-08-08"
+  },
+  {
+    "date": "Sat 9 Aug",
+    "dayNum": 111,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "Week 16: LONG SESSION — Graph Interpretation",
+    "tasks": [
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 1 (25 min)",
+        "resource": "SPMM Notes Curriculum Part B.pdf",
+        "action": "Open file, go to 'Interpret Graphs' section (14 pages). Read: Likelihood Ratio Nomogram + Altman + Funnel + ROC"
+      },
+      {
+        "type": "evening",
+        "label": "📘 POMODORO 2 (25 min)",
+        "resource": "SPMM Notes Curriculum Part B.pdf",
+        "action": "Continue: Forest Plot + Kaplan Meier + Stem & Leaf + Path Analysis + Scatter Plot + Galbraith + L'Abbe + Box Whisker + CONSORT flow"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 3 (25 min)",
+        "resource": "20- EMIs Statistics.pdf + 21- EBM Principles_ Attempt review.pdf",
+        "action": "Do 20 mixed stats/EBM questions timed"
+      }
+    ],
+    "iso": "2026-08-09"
+  },
+  {
+    "date": "Sun 10 Aug",
+    "dayNum": 112,
+    "phase": 2,
+    "phaseLabel": "PHASE 2 — RESEARCH METHODS & STATS",
+    "topic": "PLANNING DAY - Phase 2 COMPLETE!",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Pen and paper",
+        "action": "Phase 3 tomorrow: CONSOLIDATION (Recalls). Plan Week 17."
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "Huge milestone - you've covered stats! Rest."
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Phase 2",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-08-10"
+  },
+  {
+    "date": "Mon 11 Aug",
+    "dayNum": 113,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "Week 17: RECALLS — Latest recall",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload paper b latest recall.pdf to Speechify, listen through once"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "paper b latest recall.pdf",
+        "action": "Open file, work through all questions systematically, mark wrong ones"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "Your wrong answers from today",
+        "action": "Look up each wrong answer topic in the relevant SPMM note file, re-read that specific section"
+      }
+    ],
+    "iso": "2026-08-11"
+  },
+  {
+    "date": "Tue 12 Aug",
+    "dayNum": 114,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "Week 17: RECALLS — September 2022",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload recalls september 22.pdf to Speechify, listen through"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "recalls september 22.pdf",
+        "action": "Open file, do first 30 questions, mark wrong ones"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "Wrong answers from today",
+        "action": "Re-read relevant SPMM note sections for each wrong answer topic"
+      }
+    ],
+    "iso": "2026-08-12"
+  },
+  {
+    "date": "Wed 13 Aug",
+    "dayNum": 115,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "Week 17: RECALLS — September 2022 continued",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Psychomentor folder (Drive)",
+        "action": "Watch any video on your weakest topic from yesterday's recalls"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "recalls september 22.pdf",
+        "action": "Continue, do next 30 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "Wrong answers from today",
+        "action": "Re-read relevant SPMM note sections for each wrong answer topic"
+      }
+    ],
+    "iso": "2026-08-13"
+  },
+  {
+    "date": "Thu 14 Aug",
+    "dayNum": 116,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "Week 17: RECALLS — March 2023",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload recall 2023, march.docx to Speechify, listen through"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "recall 2023, march.docx",
+        "action": "Open file, do first 30 questions, mark wrong ones"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "Wrong answers from today",
+        "action": "Re-read relevant SPMM note sections"
+      }
+    ],
+    "iso": "2026-08-14"
+  },
+  {
+    "date": "Fri 15 Aug",
+    "dayNum": 117,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "Week 17: RECALLS — March 2023 continued",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, watch any video on your weakest topic"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "recall 2023, march.docx",
+        "action": "Continue, finish remaining questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "Wrong answers from today",
+        "action": "Re-read relevant SPMM note sections"
+      }
+    ],
+    "iso": "2026-08-15"
+  },
+  {
+    "date": "Sat 16 Aug",
+    "dayNum": 118,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "Week 17: LONG SESSION — Recalls solved 2",
+    "tasks": [
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 1 (25 min)",
+        "resource": "recalls solved 2.pdf",
+        "action": "Open file, do 25 questions, mark wrong ones"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 2 (25 min)",
+        "resource": "recalls solved 2.pdf",
+        "action": "Continue, do next 25 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 3 (25 min)",
+        "resource": "Wrong answers",
+        "action": "Review every wrong answer, write down the top 5 topics you keep getting wrong"
+      }
+    ],
+    "iso": "2026-08-16"
+  },
+  {
+    "date": "Sun 17 Aug",
+    "dayNum": 119,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "PLANNING DAY",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Pen and paper",
+        "action": "Identify: what are your top 5 weak topics from this week's recalls? Plan Week 18 around these."
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "No study materials today"
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Week 17",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-08-17"
+  },
+  {
+    "date": "Mon 18 Aug",
+    "dayNum": 120,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "Week 18: ALL RECALLS + weak topic 1",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload SPMM note file for your weak topic 1, listen through"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "All Recalls 1.pdf",
+        "action": "Open file, do first 25 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM file for weak topic 1",
+        "action": "Re-read the specific sections that relate to your wrong answers"
+      }
+    ],
+    "iso": "2026-08-18"
+  },
+  {
+    "date": "Tue 19 Aug",
+    "dayNum": 121,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "Week 18: ALL RECALLS + weak topic 2",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload SPMM note file for your weak topic 2"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "All Recalls 1.pdf",
+        "action": "Continue, do next 25 questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM file for weak topic 2",
+        "action": "Re-read sections for your wrong answers"
+      }
+    ],
+    "iso": "2026-08-19"
+  },
+  {
+    "date": "Wed 20 Aug",
+    "dayNum": 122,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "Week 18: ALL RECALLS + weak topic 3",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Psychomentor folder",
+        "action": "Watch video on weak topic 3"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "All Recalls 1.pdf",
+        "action": "Continue, finish remaining questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM file for weak topic 3",
+        "action": "Re-read sections for your wrong answers"
+      }
+    ],
+    "iso": "2026-08-20"
+  },
+  {
+    "date": "Thu 21 Aug",
+    "dayNum": 123,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "Week 18: RECALL HANDWRITTEN + weak topic 4",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload SPMM note file for your weak topic 4"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "recall handwritten.pdf",
+        "action": "Open file, work through all questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM file for weak topic 4",
+        "action": "Re-read sections for your wrong answers"
+      }
+    ],
+    "iso": "2026-08-21"
+  },
+  {
+    "date": "Fri 22 Aug",
+    "dayNum": 124,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "Week 18: EMIs sweep + weak topic 5",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload SPMM note file for your weak topic 5"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs folder",
+        "action": "Open folder, pick the EMI file for your weakest topic, do all questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM file for weak topic 5",
+        "action": "Re-read sections for your wrong answers"
+      }
+    ],
+    "iso": "2026-08-22"
+  },
+  {
+    "date": "Sat 23 Aug",
+    "dayNum": 125,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "Week 18: LONG SESSION — Full EMI blitz",
+    "tasks": [
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 1 (25 min)",
+        "resource": "EMIs folder - any 2 topic files",
+        "action": "Open folder, pick 2 EMI files you haven't fully completed, do 15 questions from each"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 2 (25 min)",
+        "resource": "EMIs folder - 2 more files",
+        "action": "Do 15 questions from 2 more EMI files"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 3 (25 min)",
+        "resource": "All your wrong answers this week",
+        "action": "Go back through all wrong answers from the week - make sure you understand each one"
+      }
+    ],
+    "iso": "2026-08-23"
+  },
+  {
+    "date": "Sun 24 Aug",
+    "dayNum": 126,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "PLANNING DAY",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Pen and paper",
+        "action": "Plan Mon-Fri for Week 19"
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "No study materials today"
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Week 18",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-08-24"
+  },
+  {
+    "date": "Mon 25 Aug",
+    "dayNum": 127,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "Week 19: WEAK AREA BLITZ — Day 1",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload the SPMM file for your current weakest topic, listen through"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "Appropriate EMI file for that topic",
+        "action": "Do 15 questions on your weakest topic"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM file for weakest topic",
+        "action": "Re-read the sections you keep getting wrong - write 10 key facts from memory"
+      }
+    ],
+    "iso": "2026-08-25"
+  },
+  {
+    "date": "Tue 26 Aug",
+    "dayNum": 128,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "Week 19: WEAK AREA BLITZ — Day 2 (Stats)",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, re-watch any Advanced Statistics video segment you found hardest"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "20- EMIs Statistics.pdf",
+        "action": "Do 15 stats questions - focus on formulas and interpretation"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "Equations.pdf",
+        "action": "Test yourself: write out every formula from memory, check answers"
+      }
+    ],
+    "iso": "2026-08-26"
+  },
+  {
+    "date": "Wed 27 Aug",
+    "dayNum": 129,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "Week 19: WEAK AREA BLITZ — Day 3 (EBM)",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Psychomentor folder",
+        "action": "Watch any EBM or critical appraisal video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "21- EBM Principles_ Attempt review.pdf",
+        "action": "Do 15 EBM questions - focus on study design appraisal"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM Notes - EBM subfolder",
+        "action": "Re-read any EBM section you're still unsure on"
+      }
+    ],
+    "iso": "2026-08-27"
+  },
+  {
+    "date": "Thu 28 Aug",
+    "dayNum": 130,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "Week 19: WEAK AREA BLITZ — Day 4",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload SPMM file for another weak topic"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs file for that topic",
+        "action": "Do 15 questions on another weak topic"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM file for that topic",
+        "action": "Re-read sections that relate to wrong answers"
+      }
+    ],
+    "iso": "2026-08-28"
+  },
+  {
+    "date": "Fri 29 Aug",
+    "dayNum": 131,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "Week 19: WEAK AREA BLITZ — Day 5 (Review)",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Open file, watch any remaining unwatched video"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "All Recalls 1.pdf",
+        "action": "Re-do any questions you previously got wrong"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "Paper B epidemiology stats summary.pdf",
+        "action": "Complete re-read of this file"
+      }
+    ],
+    "iso": "2026-08-29"
+  },
+  {
+    "date": "Sat 30 Aug",
+    "dayNum": 132,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "Week 19: LONG SESSION — Pre-mock primer",
+    "tasks": [
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 1 (25 min)",
+        "resource": "Equations.pdf",
+        "action": "Final test: write all formulas from memory one more time"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 2 (25 min)",
+        "resource": "ICD11proposed changes.pdf",
+        "action": "Open file, read fully - this is key for classification questions"
+      },
+      {
+        "type": "evening",
+        "label": "📝 POMODORO 3 (25 min)",
+        "resource": "Best of five MCQs_ paper 3.pdf",
+        "action": "Open file, do 25 mixed questions timed"
+      }
+    ],
+    "iso": "2026-08-30"
+  },
+  {
+    "date": "Sun 31 Aug",
+    "dayNum": 133,
+    "phase": 3,
+    "phaseLabel": "PHASE 3 — CONSOLIDATION (RECALLS)",
+    "topic": "PLANNING DAY - Phase 3 COMPLETE!",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Pen and paper",
+        "action": "Phase 4 tomorrow: FULL TIMED MOCK EXAMS each Saturday. Plan your quiet 3-hour window."
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "Next week you do your first 150-question timed mock. Rest."
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Phase 3",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-08-31"
+  },
+  {
+    "date": "Mon 1 Sep",
+    "dayNum": 134,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "Week 20: PRE-MOCK revision — Depression/Bipolar/Schizophrenia",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 71_AdultPsychiatry_part1.pdf, listen to NICE treatment sections"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Do 15 mixed Adult Psych questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "71_AdultPsychiatry_part1.pdf",
+        "action": "Quick review of NICE guideline sections only - no new detail"
+      }
+    ],
+    "iso": "2026-09-01"
+  },
+  {
+    "date": "Tue 2 Sep",
+    "dayNum": 135,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "Week 20: PRE-MOCK revision — Stats & EBM",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Stat. Videos folder",
+        "action": "Watch any stats video on your weakest area"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "20- EMIs Statistics.pdf + 21- EBM Principles",
+        "action": "Do 10 questions from each - mixed stats/EBM"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "Equations.pdf",
+        "action": "Test yourself on all formulas"
+      }
+    ],
+    "iso": "2026-09-02"
+  },
+  {
+    "date": "Wed 3 Sep",
+    "dayNum": 136,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "Week 20: PRE-MOCK revision — Old Age + Child + Addiction",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Psychomentor folder",
+        "action": "Watch any video on Old Age / Child / Addiction"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Old Age + EMIs Child + EMIs Addiction",
+        "action": "Do 5 questions from each file"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "81_OldAgePsychiatry.pdf or 10_ChildPsychiatry.pdf",
+        "action": "Quick review of whichever is weaker"
+      }
+    ],
+    "iso": "2026-09-03"
+  },
+  {
+    "date": "Thu 4 Sep",
+    "dayNum": 137,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "Week 20: PRE-MOCK revision — Forensic/LD/Psychotherapy",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 091_Psychotherapy.pdf or any weak topic file"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Forensic + EMIs LD + EMIs Psychotherapy",
+        "action": "Do 5 questions from each"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "Paper B epidemiology stats summary.pdf",
+        "action": "Re-read fully"
+      }
+    ],
+    "iso": "2026-09-04"
+  },
+  {
+    "date": "Fri 5 Sep",
+    "dayNum": 138,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "Week 20: LIGHT REVIEW before mock",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload any favourite note file, light listening - no new material"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "paper b latest recall.pdf",
+        "action": "Re-read the recalls - no new questions tonight"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING",
+        "resource": "EARLY NIGHT",
+        "action": "Sleep early. Tomorrow is your first full timed mock."
+      }
+    ],
+    "iso": "2026-09-05"
+  },
+  {
+    "date": "Sat 6 Sep",
+    "dayNum": 139,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "MOCK EXAM 1 — FULL EXAM CONDITIONS (150 Qs, 3 hours)",
+    "tasks": [
+      {
+        "type": "mock",
+        "label": "🧪 MOCK EXAM (3 hours)",
+        "resource": "Mocks Exam Paper B_ 2022 - Paper B Mock Exam 1 (150Qs).pdf",
+        "action": "Open file, 150 questions, timed 3 hours, no interruptions, no phone"
+      },
+      {
+        "type": "mock",
+        "label": "📝 AFTER MOCK",
+        "resource": "Same mock paper",
+        "action": "Go through EVERY wrong answer. Write down which topic each wrong answer belongs to."
+      },
+      {
+        "type": "mock",
+        "label": "📋 LOG YOUR SCORE",
+        "resource": "Pen and paper",
+        "action": "Write: Score out of 150. Top 3 weak topics. Keep this paper for next week - it guides your revision."
+      }
+    ],
+    "iso": "2026-09-06"
+  },
+  {
+    "date": "Sun 7 Sep",
+    "dayNum": 140,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "PLANNING DAY",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Your Mock 1 results",
+        "action": "Plan Mon-Fri around Mock 1 weak topics"
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "You just did a mock exam. Rest properly."
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Mock Exam 1",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-09-07"
+  },
+  {
+    "date": "Mon 8 Sep",
+    "dayNum": 141,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "Week 21: MOCK 1 WEAK TOPIC 1",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload SPMM note file for your Mock 1 weak topic 1"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs file for Mock 1 weak topic 1",
+        "action": "Do 15 questions on weak topic 1"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM file for weak topic 1",
+        "action": "Re-read sections you got wrong in Mock 1"
+      }
+    ],
+    "iso": "2026-09-08"
+  },
+  {
+    "date": "Tue 9 Sep",
+    "dayNum": 142,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "Week 21: MOCK 1 WEAK TOPIC 2",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Psychomentor folder",
+        "action": "Watch video on Mock 1 weak topic 2"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs file for Mock 1 weak topic 2",
+        "action": "Do 15 questions on weak topic 2"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM file for weak topic 2",
+        "action": "Re-read sections you got wrong in Mock 1"
+      }
+    ],
+    "iso": "2026-09-09"
+  },
+  {
+    "date": "Wed 10 Sep",
+    "dayNum": 143,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "Week 21: MOCK 1 WEAK TOPIC 3",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload SPMM file for weak topic 3"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs file for weak topic 3",
+        "action": "Do 15 questions on weak topic 3"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM file for weak topic 3",
+        "action": "Re-read sections you got wrong in Mock 1"
+      }
+    ],
+    "iso": "2026-09-10"
+  },
+  {
+    "date": "Thu 11 Sep",
+    "dayNum": 144,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "Week 21: STATS REFRESHER",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "📺 MORNING (commute)",
+        "resource": "Stat. Videos folder",
+        "action": "Re-watch any stats video you found hardest"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "20- EMIs Statistics.pdf",
+        "action": "Do 15 questions - focus on areas you got wrong in Mock 1"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "Equations.pdf",
+        "action": "Quick refresher - write all formulas from memory"
+      }
+    ],
+    "iso": "2026-09-11"
+  },
+  {
+    "date": "Fri 12 Sep",
+    "dayNum": 145,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "Week 21: LIGHT REVIEW before Mock 2",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Light listening - no new material"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "ICD11proposed changes.pdf",
+        "action": "Skim through for any classification questions you might face"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING",
+        "resource": "EARLY NIGHT",
+        "action": "Sleep early. Mock 2 tomorrow."
+      }
+    ],
+    "iso": "2026-09-12"
+  },
+  {
+    "date": "Sat 13 Sep",
+    "dayNum": 146,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "MOCK EXAM 2 — FULL EXAM CONDITIONS",
+    "tasks": [
+      {
+        "type": "mock",
+        "label": "🧪 MOCK EXAM (3 hours)",
+        "resource": "Mocks Exam Paper B_ 2022 - Paper B Mock Exam 2 (150Qs).pdf",
+        "action": "Open file, 150 questions, timed 3 hours, no interruptions"
+      },
+      {
+        "type": "mock",
+        "label": "📝 AFTER MOCK",
+        "resource": "Same mock paper",
+        "action": "Go through EVERY wrong answer. Write down topics."
+      },
+      {
+        "type": "mock",
+        "label": "📋 LOG YOUR SCORE",
+        "resource": "Pen and paper",
+        "action": "Write: Score out of 150. Compare with Mock 1. Top 3 weak topics."
+      }
+    ],
+    "iso": "2026-09-13"
+  },
+  {
+    "date": "Sun 14 Sep",
+    "dayNum": 147,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "PLANNING DAY",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Your Mock 2 results",
+        "action": "Plan Mon-Fri around Mock 2 weak topics"
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "No study materials today"
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Mock Exam 2",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-09-14"
+  },
+  {
+    "date": "Mon 15 Sep",
+    "dayNum": 148,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "Week 22: MOCK 2 WEAK TOPIC 1",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload SPMM file for your Mock 2 weak topic 1"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "Relevant EMIs file",
+        "action": "Do 15 questions on Mock 2 weak topic 1"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM file for that topic",
+        "action": "Re-read sections you got wrong"
+      }
+    ],
+    "iso": "2026-09-15"
+  },
+  {
+    "date": "Tue 16 Sep",
+    "dayNum": 149,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "Week 22: MOCK 2 WEAK TOPIC 2",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Psychomentor folder",
+        "action": "Watch video on weak topic 2"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "Relevant EMIs file",
+        "action": "Do 15 questions on weak topic 2"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM file for that topic",
+        "action": "Re-read sections you got wrong"
+      }
+    ],
+    "iso": "2026-09-16"
+  },
+  {
+    "date": "Wed 17 Sep",
+    "dayNum": 150,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "Week 22: MOCK 2 WEAK TOPIC 3",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload SPMM file for weak topic 3"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "Relevant EMIs file",
+        "action": "Do 15 questions on weak topic 3"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM file for that topic",
+        "action": "Re-read sections you got wrong"
+      }
+    ],
+    "iso": "2026-09-17"
+  },
+  {
+    "date": "Thu 18 Sep",
+    "dayNum": 151,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "Week 22: MIXED RECALLS",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload recalls september 22.pdf - light listening"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "All Recalls 1.pdf",
+        "action": "Re-do 20 questions you previously got wrong"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "Equations.pdf",
+        "action": "Test yourself on all formulas"
+      }
+    ],
+    "iso": "2026-09-18"
+  },
+  {
+    "date": "Fri 19 Sep",
+    "dayNum": 152,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "Week 22: LIGHT REVIEW before Mock 3",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Light listening, no new material"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "paper b latest recall.pdf",
+        "action": "Re-read only - no new questions"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING",
+        "resource": "EARLY NIGHT",
+        "action": "Sleep early. Mock 3 tomorrow."
+      }
+    ],
+    "iso": "2026-09-19"
+  },
+  {
+    "date": "Sat 20 Sep",
+    "dayNum": 153,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "MOCK EXAM 3 — FULL EXAM CONDITIONS",
+    "tasks": [
+      {
+        "type": "mock",
+        "label": "🧪 MOCK EXAM (3 hours)",
+        "resource": "Mocks Exam Paper B_ 2022 - Paper B Mock Exam 3 (150Qs).pdf",
+        "action": "Open file, 150 questions, timed 3 hours, no interruptions"
+      },
+      {
+        "type": "mock",
+        "label": "📝 AFTER MOCK",
+        "resource": "Same mock paper",
+        "action": "Go through EVERY wrong answer"
+      },
+      {
+        "type": "mock",
+        "label": "📋 LOG YOUR SCORE",
+        "resource": "Pen and paper",
+        "action": "Write: Score out of 150. Are you improving? Top 3 weak topics."
+      }
+    ],
+    "iso": "2026-09-20"
+  },
+  {
+    "date": "Sun 21 Sep",
+    "dayNum": 154,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "PLANNING DAY",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Your Mock 3 results",
+        "action": "Plan Mon-Fri around Mock 3 weak topics"
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "No study materials today"
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Mock Exam 3",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-09-21"
+  },
+  {
+    "date": "Mon 22 Sep",
+    "dayNum": 155,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "Week 23: MOCK 3 WEAK TOPIC 1",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload SPMM file for Mock 3 weak topic 1"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "Relevant EMIs file",
+        "action": "Do 15 questions on weak topic 1"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM file for that topic",
+        "action": "Re-read and write 10 key facts from memory"
+      }
+    ],
+    "iso": "2026-09-22"
+  },
+  {
+    "date": "Tue 23 Sep",
+    "dayNum": 156,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "Week 23: MOCK 3 WEAK TOPIC 2",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Psychomentor folder",
+        "action": "Watch video on weak topic 2"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "Relevant EMIs file",
+        "action": "Do 15 questions on weak topic 2"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM file for that topic",
+        "action": "Re-read and write 10 key facts from memory"
+      }
+    ],
+    "iso": "2026-09-23"
+  },
+  {
+    "date": "Wed 24 Sep",
+    "dayNum": 157,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "Week 23: MOCK 3 WEAK TOPIC 3",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload SPMM file for weak topic 3"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "Relevant EMIs file",
+        "action": "Do 15 questions on weak topic 3"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "SPMM file for that topic",
+        "action": "Re-read and write 10 key facts from memory"
+      }
+    ],
+    "iso": "2026-09-24"
+  },
+  {
+    "date": "Thu 25 Sep",
+    "dayNum": 158,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "Week 23: NICE GUIDELINES QUICK REVIEW",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 71_AdultPsychiatry_part1.pdf, listen to NICE sections"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "EMIs Adult Psychiatry.pdf",
+        "action": "Do 15 questions focused on NICE guidelines"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING (25 min)",
+        "resource": "Multiple SPMM files",
+        "action": "Quick review of NICE treatment pathways: depression, bipolar, schizophrenia, OCD, PTSD"
+      }
+    ],
+    "iso": "2026-09-25"
+  },
+  {
+    "date": "Fri 26 Sep",
+    "dayNum": 159,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "Week 23: LIGHT REVIEW before Mock 4",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Light listening, no new material"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "All Recalls 1.pdf",
+        "action": "Re-do any questions still troubling you"
+      },
+      {
+        "type": "evening",
+        "label": "📘 EVENING",
+        "resource": "EARLY NIGHT",
+        "action": "Sleep early. Mock 4 tomorrow."
+      }
+    ],
+    "iso": "2026-09-26"
+  },
+  {
+    "date": "Sat 27 Sep",
+    "dayNum": 160,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "MOCK EXAM 4 — FULL EXAM CONDITIONS",
+    "tasks": [
+      {
+        "type": "mock",
+        "label": "🧪 MOCK EXAM (3 hours)",
+        "resource": "Mocks Exam Paper B_ 2022 - Paper B Mock Exam 4 (150Qs).pdf",
+        "action": "Open file, 150 questions, timed 3 hours, no interruptions"
+      },
+      {
+        "type": "mock",
+        "label": "📝 AFTER MOCK",
+        "resource": "Same mock paper",
+        "action": "Go through EVERY wrong answer"
+      },
+      {
+        "type": "mock",
+        "label": "📋 LOG YOUR SCORE",
+        "resource": "Pen and paper",
+        "action": "Compare all 4 Mock scores. You are nearly there."
+      }
+    ],
+    "iso": "2026-09-27"
+  },
+  {
+    "date": "Sun 28 Sep",
+    "dayNum": 161,
+    "phase": 4,
+    "phaseLabel": "PHASE 4 — TIMED MOCK EXAMS",
+    "topic": "PLANNING DAY - Phase 4 COMPLETE!",
+    "tasks": [
+      {
+        "type": "plan",
+        "label": "📅 PLANNING (10 min only)",
+        "resource": "Your Mock scores",
+        "action": "Plan the final week. Phase 5 is the final sprint - mostly rest and light review."
+      },
+      {
+        "type": "rest",
+        "label": "😴 REST",
+        "resource": "No studying",
+        "action": "Take care of yourself this week. The work is done."
+      },
+      {
+        "type": "rest",
+        "label": "✅ TICK THIS BOX",
+        "resource": "You completed Phase 4",
+        "action": "Bin this sheet."
+      }
+    ],
+    "iso": "2026-09-28"
+  },
+  {
+    "date": "Mon 29 Sep",
+    "dayNum": 162,
+    "phase": 5,
+    "phaseLabel": "PHASE 5 — FINAL SPRINT",
+    "topic": "Week 24: FINAL WEEK — Audio + light recall review",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload 71_AdultPsychiatry_part1.pdf - listen only, no active reading"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "paper b latest recall.pdf",
+        "action": "Re-read calmly - do not get stressed about any you don't know"
+      },
+      {
+        "type": "morning",
+        "label": "🎧 EVENING",
+        "resource": "Psychomentor folder",
+        "action": "Watch or listen to any video you found helpful. Audio-only tonight."
+      }
+    ],
+    "iso": "2026-09-29"
+  },
+  {
+    "date": "Tue 30 Sep",
+    "dayNum": 163,
+    "phase": 5,
+    "phaseLabel": "PHASE 5 — FINAL SPRINT",
+    "topic": "Week 24: FINAL WEEK — Light stats review",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Upload Paper B epidemiology stats summary.pdf - just listen"
+      },
+      {
+        "type": "lunch",
+        "label": "❓ LUNCHTIME (25 min)",
+        "resource": "Equations.pdf",
+        "action": "One last test of all formulas. No more studying after this."
+      },
+      {
+        "type": "morning",
+        "label": "🎧 EVENING",
+        "resource": "Psychomentor folder",
+        "action": "Listen only, relaxed. No note-taking."
+      }
+    ],
+    "iso": "2026-09-30"
+  },
+  {
+    "date": "Wed 1 Oct",
+    "dayNum": 164,
+    "phase": 5,
+    "phaseLabel": "PHASE 5 — FINAL SPRINT",
+    "topic": "Week 24: AUDIO ONLY + EARLY REST",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "🎧 MORNING (commute)",
+        "resource": "Speechify app",
+        "action": "Light listening to any favourite file"
+      },
+      {
+        "type": "morning",
+        "label": "🎧 LUNCHTIME",
+        "resource": "Important videos Links for Paper B exam.docx",
+        "action": "Watch one final favourite video"
+      },
+      {
+        "type": "evening",
+        "label": "😴 EVENING",
+        "resource": "REST",
+        "action": "No studying tonight. Eat well. Sleep by 10pm."
+      }
+    ],
+    "iso": "2026-10-01"
+  },
+  {
+    "date": "Thu 2 Oct",
+    "dayNum": 165,
+    "phase": 5,
+    "phaseLabel": "PHASE 5 — FINAL SPRINT",
+    "topic": "Week 24: REST DAY",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "😴 MORNING",
+        "resource": "REST",
+        "action": "No studying. Light walk. Fresh air."
+      },
+      {
+        "type": "lunch",
+        "label": "😴 LUNCHTIME",
+        "resource": "REST",
+        "action": "No studying. Normal meal."
+      },
+      {
+        "type": "evening",
+        "label": "😴 EVENING",
+        "resource": "REST",
+        "action": "Early night. Lights out by 10pm. Your brain is ready."
+      }
+    ],
+    "iso": "2026-10-02"
+  },
+  {
+    "date": "Fri 3 Oct",
+    "dayNum": 166,
+    "phase": 5,
+    "phaseLabel": "PHASE 5 — FINAL SPRINT",
+    "topic": "Week 24: EXAM PREP DAY",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "😴 MORNING",
+        "resource": "REST",
+        "action": "No studying. Light walk."
+      },
+      {
+        "type": "lunch",
+        "label": "😴 LUNCHTIME",
+        "resource": "REST",
+        "action": "Normal meal. Hydrate."
+      },
+      {
+        "type": "evening",
+        "label": "📝 EVENING",
+        "resource": "EXAM PREP",
+        "action": "Lay out everything you need for exam day: ID, stationery, snacks, water. Lights out by 9:30pm."
+      }
+    ],
+    "iso": "2026-10-03"
+  },
+  {
+    "date": "Sat 4 Oct",
+    "dayNum": 167,
+    "phase": 5,
+    "phaseLabel": "PHASE 5 — FINAL SPRINT",
+    "topic": "Week 24: EXAM EVE",
+    "tasks": [
+      {
+        "type": "morning",
+        "label": "😴 MORNING",
+        "resource": "REST — NO STUDYING",
+        "action": "No revision. Final rest day."
+      },
+      {
+        "type": "rest",
+        "label": "😴 AFTERNOON",
+        "resource": "REST",
+        "action": "Normal meal. Light walk. No screens after 8pm."
+      },
+      {
+        "type": "evening",
+        "label": "😴 EVENING",
+        "resource": "REST",
+        "action": "Everything is laid out. You've done the work. Lights out early. Sleep is revision."
+      }
+    ],
+    "iso": "2026-10-04"
+  },
+  {
+    "date": "Sun 5 Oct",
+    "dayNum": 168,
+    "phase": 5,
+    "phaseLabel": "PHASE 5 — FINAL SPRINT",
+    "topic": "EXAM DAY",
+    "tasks": [
+      {
+        "type": "rest",
+        "label": "✅ EXAM DAY",
+        "resource": "You are ready",
+        "action": "Eat breakfast. Leave early. Trust everything you have learned over 24 weeks."
+      },
+      {
+        "type": "rest",
+        "label": "✅ YOU DID IT",
+        "resource": "24 weeks of preparation",
+        "action": "Whatever happens, you showed up and prepared. That is something to be proud of."
+      },
+      {
+        "type": "rest",
+        "label": "🎉 AFTER EXAM",
+        "resource": "No more studying",
+        "action": "You are done. Rest. Celebrate. You have earned it."
+      }
+    ],
+    "iso": "2026-10-05"
+  }
+]

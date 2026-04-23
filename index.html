@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<meta name="theme-color" content="#1d5259">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Paper B">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-192.png">
+<title>Paper B · Daily Sheets</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700;9..144,800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap">
+
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Top bar -->
+<header class="bar" role="banner">
+  <button class="bar-btn" id="btn-contents" aria-label="Open contents" title="Contents (c)">
+    <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+  </button>
+
+  <div class="bar-center">
+    <div class="bar-title"><span id="title-day">Day 1</span> <span class="bar-sep">·</span> <span id="title-date">Mon 21 Apr</span></div>
+    <div class="bar-sub"><span id="title-phase">Phase 1</span></div>
+  </div>
+
+  <button class="bar-btn" id="btn-today" aria-label="Jump to today" title="Today (t)">
+    <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/><circle cx="12" cy="16" r="2" fill="currentColor"/></svg>
+  </button>
+</header>
+
+<!-- Progress bar -->
+<div class="progress" role="progressbar" aria-label="Plan progress">
+  <div class="progress-fill" id="progress-fill"></div>
+</div>
+
+<!-- Flipbook main area -->
+<main class="stage" id="stage">
+  <div class="deck" id="deck">
+    <!-- pages injected here -->
+  </div>
+
+  <!-- navigation arrows for desktop -->
+  <button class="nav nav-prev" id="nav-prev" aria-label="Previous day">
+    <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+  </button>
+  <button class="nav nav-next" id="nav-next" aria-label="Next day">
+    <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+  </button>
+</main>
+
+<!-- Bottom bar -->
+<nav class="footbar" role="navigation">
+  <div class="footbar-stats">
+    <span id="stat-complete">0</span><span class="footbar-sep"> / </span><span>168 complete</span>
+    <span class="footbar-streak" id="stat-streak" hidden>🔥 <span id="stat-streak-num">0</span>-day streak</span>
+  </div>
+  <button class="footbar-settings" id="btn-settings" aria-label="Settings">
+    <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+  </button>
+</nav>
+
+<!-- Contents overlay -->
+<div class="overlay" id="overlay-contents" hidden>
+  <div class="overlay-panel">
+    <header class="overlay-head">
+      <h2>Contents</h2>
+      <button class="overlay-close" id="close-contents" aria-label="Close">
+        <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+    </header>
+    <div class="overlay-body">
+      <div class="legend">
+        <span class="legend-item"><span class="swatch sw-p1"></span> Clinical</span>
+        <span class="legend-item"><span class="swatch sw-p2"></span> Stats &amp; EBM</span>
+        <span class="legend-item"><span class="swatch sw-p3"></span> Recalls</span>
+        <span class="legend-item"><span class="swatch sw-p4"></span> Mocks</span>
+        <span class="legend-item"><span class="swatch sw-p5"></span> Final week</span>
+      </div>
+      <div class="grid" id="contents-grid"></div>
+    </div>
+  </div>
+</div>
+
+<!-- Settings overlay -->
+<div class="overlay" id="overlay-settings" hidden>
+  <div class="overlay-panel overlay-panel-sm">
+    <header class="overlay-head">
+      <h2>Settings</h2>
+      <button class="overlay-close" id="close-settings" aria-label="Close">
+        <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+    </header>
+    <div class="overlay-body settings-body">
+      <section class="setting">
+        <div class="setting-label">Theme</div>
+        <div class="segmented" id="theme-picker">
+          <button data-theme="auto" class="on">Auto</button>
+          <button data-theme="light">Light</button>
+          <button data-theme="dark">Dark</button>
+        </div>
+      </section>
+
+      <section class="setting">
+        <div class="setting-label">Text size</div>
+        <div class="segmented" id="size-picker">
+          <button data-size="sm">Small</button>
+          <button data-size="md" class="on">Medium</button>
+          <button data-size="lg">Large</button>
+        </div>
+      </section>
+
+      <section class="setting">
+        <div class="setting-label">Your data</div>
+        <button class="row-btn" id="btn-export">Export progress (.json)</button>
+        <label class="row-btn row-btn-file">
+          <span>Import progress</span>
+          <input type="file" id="input-import" accept="application/json">
+        </label>
+        <button class="row-btn row-btn-danger" id="btn-reset">Reset all progress…</button>
+      </section>
+
+      <section class="setting">
+        <div class="setting-label">Keyboard shortcuts</div>
+        <table class="shortcuts">
+          <tr><td><kbd>←</kbd> <kbd>→</kbd></td><td>Flip pages</td></tr>
+          <tr><td><kbd>c</kbd></td><td>Contents</td></tr>
+          <tr><td><kbd>t</kbd></td><td>Today</td></tr>
+          <tr><td><kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd></td><td>Tick task</td></tr>
+        </table>
+      </section>
+
+      <section class="setting about">
+        <div class="setting-label">About</div>
+        <p>MRCPsych Paper B daily plan · 168 days<br><span class="muted">Exam: Sun 5 Oct 2026</span></p>
+      </section>
+    </div>
+  </div>
+</div>
+
+<!-- Swipe hint (first-time) -->
+<div class="hint" id="hint" hidden>
+  <div class="hint-inner">
+    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+    <span>Swipe to turn the page</span>
+    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>
+  </div>
+</div>
+
+<!-- Exam day approaching indicator -->
+<div class="exam-badge" id="exam-badge" hidden>
+  <span id="exam-badge-text">Exam in N days</span>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
